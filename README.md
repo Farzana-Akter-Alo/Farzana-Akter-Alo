@@ -52,19 +52,6 @@ My goal is to become a professional Full-Stack Developer and build modern, respo
 * 🧩 Improving problem-solving through real-world projects
 * 🚀 Preparing for a professional Full-Stack Developer career
 
----
-
-## 📍 Profile
-
-<div align="center">
-
-📍 **Location:** Bangladesh
-📧 **Email:** [mstfarzana161@gmail.com](mailto:mstfarzana161@gmail.com)
-
-</div>
-
----
-
 ## 🛠️ Skills & Technologies
 
 ### 🌸 Frontend Development
@@ -175,24 +162,6 @@ A modern workout library application built with Next.js and TypeScript for disco
 
 </tr>
 </table>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<a href="https://github.com/Farzana-Akter-Alo">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Farzana-Akter-Alo&show_icons=true&hide_border=true&rank_icon=github&theme=omni" />
-</a>
-
-<a href="https://github.com/Farzana-Akter-Alo">
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Farzana-Akter-Alo&layout=compact&hide_border=true&theme=omni" />
-</a>
-
-</div>
-
----
 
 ## 🔥 Contribution Streak
 
